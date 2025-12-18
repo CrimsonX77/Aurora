@@ -1,0 +1,13 @@
+edge-tts
+piper-tts
+librosa
+soundfile
+numpy
+scipy
+pygame
+PyQt6
+SpeechRecognition
+python-docx
+pyaudio
+# Note: PyAudio may require system PortAudio libraries to build on Linux.
+# If installation fails, consider installing system packages first or use a recreated venv.
